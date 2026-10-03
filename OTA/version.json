@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "6.0",
+  "versionCode": 9,
+  "versionName": "9.0",
   "apkUrl": "https://github.com/khanhitpro/LOGO/releases/download/hinhnentv_v2.0/hinhnentv_v6.0_app-debug.apk",
   "changelog": "• Bổ sung thời gian đếm ngược tự hủy ảnh 24h\n• Nâng cấp giao diện Tab và phóng to QR trên TV\n• Tối ưu hiệu năng và sửa lỗi kết nối"
 }
