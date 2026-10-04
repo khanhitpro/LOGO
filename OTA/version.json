@@ -2,5 +2,5 @@
   "versionCode": 10,
   "versionName": "10.0",
   "apkUrl": "https://github.com/khanhitpro/LOGO/releases/download/hinhnentv_v2.0/app-debug.apk",
-  "changelog": "• Bổ sung thời gian đếm ngược tự hủy ảnh sau 24h\n• Nâng cấp giao diện Tab và hỗ trợ phóng to mã QR trên TV\n• Tối ưu hiệu năng và sửa lỗi kết nối\n\n* Lưu ý (Bản thử nghiệm): Bấm 'Bỏ qua' nếu bạn chưa muốn cập nhật. Phiên bản này có thể ảnh hưởng đến một số tính năng cũ."
+  "changelog": "• Gỡ bỏ tính năng đếm ngược tự hủy ảnh sau 24h\n• Gỡ bỏ giao diện Tab và tính năng phóng to mã QR trên TV\n• Tối giản toàn bộ giao diện, chỉ giữ lại tính năng đổi hình nền từ bộ sưu tập\n• Sửa lỗi tương thích và tối ưu cho các dòng TV đời cao\n\n* Lưu ý (Bản thử nghiệm): Bấm 'Bỏ qua' nếu bạn chưa muốn cập nhật. Phiên bản này có thể ảnh hưởng đến một số tính năng cũ."
 }
