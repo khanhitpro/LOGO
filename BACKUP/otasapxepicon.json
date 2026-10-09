@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "title": "Bản cập nhật mới !",
+  "changelog": "- Tự động sắp xếp icon danh mục TV\n- Cập nhật giao diện mượt hơn\n- Sửa lỗi không nhận diện launcher",
+  "apkUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/app-release.apk",
+  "forceUpdate": false
+}
