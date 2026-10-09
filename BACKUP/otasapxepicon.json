@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "3.1.0",
   "title": "Cập nhật Sắp Xếp Icon",
   "changelog": "- Tối ưu khôi phục icon Xiaomi TV\n- Tăng tốc độ load backup\n- Sửa các lỗi vặt",
   "apkUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/SapXepIcon.apk",
