@@ -1,8 +1,45 @@
 {
-  "versionCode": 3,
-  "versionName": "3.1.0",
-  "title": "Cập nhật Sắp Xếp Icon",
-  "changelog": "- Tối ưu khôi phục icon Xiaomi TV\n- Tăng tốc độ load backup\n- Sửa các lỗi vặt",
-  "apkUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/SapXepIcon.apk",
-  "forceUpdate": false
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "title": "Sắp Xếp Icon TV",
+  "changelog": "Nâng cấp giao diện chọn gói trực quan, hỗ trợ xem trước hình ảnh và đồng bộ tức thì.",
+  "apkUrl": "",
+  "forceUpdate": false,
+  "updatedDate": "24/11/2026",
+  "intro": "Chọn phong cách giao diện bạn muốn áp dụng cho Projectivy Launcher",
+  "demoImageUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/demo_ota.jpg",
+  "files": [
+    {
+      "name": "OTA",
+      "fileName": "OTA.plbackup",
+      "url": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/OTA.plbackup",
+      "imageUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/demo_ota.jpg",
+      "description": "Giao diện chuẩn mặc định tối ưu tốc độ và đầy đủ ứng dụng TV.",
+      "updatedDate": "24/11/2026"
+    },
+    {
+      "name": "MACOS",
+      "fileName": "MACOS.plbackup",
+      "url": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/MACOS.plbackup",
+      "imageUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/demo_macos.jpg",
+      "description": "Phong cách macOS hiện đại, thanh dock gọn gàng trên màn hình lớn.",
+      "updatedDate": "24/11/2026"
+    },
+    {
+      "name": "TỐI GIẢN",
+      "fileName": "TOI_GIAN.plbackup",
+      "url": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/TOI_GIAN.plbackup",
+      "imageUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/demo_toigian.jpg",
+      "description": "Bố cục tinh gọn, loại bỏ chi tiết thừa giúp TV nhẹ và mượt.",
+      "updatedDate": "24/11/2026"
+    },
+    {
+      "name": "CỔ ĐIỂN",
+      "fileName": "CO_DIEN.plbackup",
+      "url": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/CO_DIEN.plbackup",
+      "imageUrl": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP/demo_codien.jpg",
+      "description": "Sắp xếp truyền thống trực quan, dễ làm quen cho mọi lứa tuổi.",
+      "updatedDate": "24/11/2026"
+    }
+  ]
 }
